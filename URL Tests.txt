@@ -1,0 +1,5 @@
+http://212.183.159.230/5MB.zip
+
+ftp://ftp.otenet.gr/test1Mb.db   
+username: speedtest
+password: speedtest
